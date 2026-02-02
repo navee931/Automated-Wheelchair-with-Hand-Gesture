@@ -27,7 +27,7 @@ The system is built using Arduino and C++, integrating motors, sensors, wireless
 
 💡 Auxiliary Controls
 - Light ON/OFF control via Bluetooth
-- 
+  
 ⚙️ Embedded System Design
 - Real-time motor control using Arduino
 - Modular and expandable codebase
