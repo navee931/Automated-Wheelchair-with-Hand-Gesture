@@ -107,4 +107,4 @@ RF Control
 
 This prototype highlights the potential of combining gesture-based interfaces with wireless technology to create smarter assistive devices. The project aims to empower wheelchair users by providing a more natural, flexible, and independent way to navigate their environment.
 
-👤 Author ~ Navee
+👤 Author - Navee
